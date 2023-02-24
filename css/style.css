@@ -1,0 +1,45 @@
+.logo{
+    margin: 200px 0 0 0;
+}
+
+.searchbar{
+    text-align: center;
+    background-color: rgb(238, 234, 234);
+    margin-left: 30px;
+    margin-right: 70px;
+}
+
+.container{
+    width: 1200px;
+}
+
+.specialsearches{
+    float: left;
+    width: 330px;
+    background-color: aqua;
+    height: 80px;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 5px;
+}
+
+.navbar{
+    width: 400px;
+    float: left;
+    background-color: rgb(0, 189, 189);
+    height: 80px;
+    text-align: center;
+    margin-right: 5px;
+}
+
+.subscribebar{
+    width: 400px;
+    float: left;
+    background-color: rgb(0, 148, 148);
+    height: 80px;
+    text-align: center;
+}
+
+.clear{
+    clear: left;
+}
